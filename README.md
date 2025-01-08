@@ -45,4 +45,4 @@ OU abra o Prompt de Comando, navegue até a raiz do projeto e execute:
 	
 ## Executando as Aplicações
 Frontend Web:
-	URL: http://localhost:5001 
+	URL: http://localhost:5000
