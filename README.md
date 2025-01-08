@@ -17,12 +17,12 @@ Navegue até a Raiz do Projeto:
 Abra o Explorador de Arquivos e vá para ..\EquinoxProject-master\ (ajuste conforme a localização real).
 Executar o Script Batch:
 
-	Dê um duplo clique no arquivo run_equinox.bat.
-	OU abra o Prompt de Comando, navegue até a raiz do projeto e execute:
-
+Dê um duplo clique no arquivo run_equinox.bat.
+OU abra o Prompt de Comando, navegue até a raiz do projeto e execute:
+	
 	batch
 	run_equinox.bat
 	
 ## Executando as Aplicações
-	Frontend Web:
+Frontend Web:
 	URL: http://localhost:5001 
